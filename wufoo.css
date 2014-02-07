@@ -3,7 +3,7 @@ body { background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/bod
 form.wufoo { margin: 0; padding: 0; }
 .wufoo #header { height: auto; padding: 10px 20px 30px; }
 .wufoo input,
-.wufoo textarea{ 
+.wufoo textarea { 
 display: inline-block;
 padding: 5px!important;
 border-radius: 5px;
@@ -15,4 +15,7 @@ color: #000;
 border: 1px solid rgba(0, 0, 0, 0.2);
 box-sizing: border-box;  
 }
+.wufoo li { width: 96%!important; }
+.wufoo li.focused { background-color: transparent!important; }
 
+.wufoo input[type="submit"] { cursor: pointer!important; text-transform: uppercase; }
