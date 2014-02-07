@@ -1,9 +1,18 @@
-body { background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/homeContentBG.png) repeat 0 0; }
+body { background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/bodyBG.png) repeat 0 0; }
 #logo { display: none; }
 form.wufoo { margin: 0; padding: 0; }
 .wufoo #header { height: auto; padding: 10px 20px 30px; }
 .wufoo input,
-.wufoo textarea{ padding: 5px; border: 0px; box-shadow: none; background: #eee!important; border-radius: 5px; }
+.wufoo textarea{ 
+display: inline-block;
+padding: 5px!important;
+border-radius: 5px;
+font-size: 14px!important;
+line-height: 20px;
+margin: 5px 0;
+background: rgba(116, 115, 112, 0.28);
+color: #000;
+border: 1px solid rgba(0, 0, 0, 0.2);
+box-sizing: border-box;  
+}
 
-.leftThird input { width: 94% !important; }
-.wufoo li { width: 96%; }
