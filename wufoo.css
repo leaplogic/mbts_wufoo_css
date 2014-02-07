@@ -3,7 +3,7 @@ body { background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/hom
 form.wufoo { margin: 0; padding: 0; }
 .wufoo #header { height: auto; padding: 10px 20px 30px; }
 .wufoo input,
-.wufoo textarea{ padding: 5px; border: 0px; box-shadow: none; background: #eee; border-radius: 5px; }
+.wufoo textarea{ padding: 5px; border: 0px; box-shadow: none; background: #eee!important; border-radius: 5px; }
 
 .leftThird input { width: 94% !important; }
 .wufoo li { width: 96%; }
