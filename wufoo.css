@@ -1,12 +1,13 @@
 body { background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/bodyBG.png) repeat 0 0; margin: 0; padding: 50px 0; }
 #logo { display: none; }
-form.wufoo { margin: 0; padding: 0 20px; }
+.wufoo .info h2 { margin-bottom: 10px; }
+form.wufoo { margin: 0; padding: 0 20px 20px; }
 .wufoo #header { height: auto; padding: 20px 25px 30px; }
 .wufoo input,
 .wufoo textarea,
 .wufoo select { 
 display: inline-block;
-padding: 5px!important;
+padding: 3px 5px!important;
 border-radius: 5px;
 font-size: 14px!important;
 line-height: 20px;
@@ -19,4 +20,4 @@ box-sizing: border-box;
 .wufoo li { width: 96%!important; }
 .wufoo li.focused { background-color: transparent!important; }
 
-.wufoo input[type="submit"] { cursor: pointer!important; text-transform: uppercase; }
+.wufoo input[type="submit"] { cursor: pointer!important; text-transform: uppercase; padding: 7px 20px!important; }
