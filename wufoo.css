@@ -1,4 +1,5 @@
 body { background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/bodyBG.png) repeat 0 0; margin: 0; padding: 50px 0; }
+#container { width: 750px; }
 #logo { text-align: center; background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/contentBG.png) repeat 0 0; 
 padding: 20px 0 0;
 }
