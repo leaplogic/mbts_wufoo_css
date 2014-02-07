@@ -1,2 +1,3 @@
+body { background: red; }
 .wufoo #header { height: auto; padding: 10px 20px 30px; }
-.wufoo input { padding: 10px; border: 0px; box-shadow: none!important; background: #eee; }
+.wufoo input { padding: 10px; border: 0px; box-shadow: none; background: #eee; }
