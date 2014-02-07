@@ -29,3 +29,4 @@ box-sizing: border-box;
 .wufoo label.choice { margin-top: -21px; }
 .pgStyle1 .selected var { border: 0px; }
 .pgStyle1 .selected var, .pgStyle2 var { background: #B49541!important; color: #FFF!important; }
+button.link { color: #B49541!important; text-transform: uppercase; text-decoration: none; }
