@@ -1,3 +1,9 @@
-body { background: red; }
+body { background: url(http://www.mbts.edu/wp-content/themes/mbts-edu/images/homeContentBG.png) repeat 0 0; }
+#logo { display: none; }
+form.wufoo { margin: 0; padding: 0; }
 .wufoo #header { height: auto; padding: 10px 20px 30px; }
-.wufoo input { padding: 10px; border: 0px; box-shadow: none; background: #eee; }
+.wufoo input,
+.wufoo textarea{ padding: 5px; border: 0px; box-shadow: none; background: #eee; border-radius: 5px; }
+
+.leftThird input { width: 94% !important; }
+.wufoo li { width: 96%; }
