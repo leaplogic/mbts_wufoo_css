@@ -34,3 +34,4 @@ form li.focused .instruct, form li:hover .instruct { left: auto; right: 100px; }
 .pgStyle1 .selected var { border: 0px; }
 .pgStyle1 .selected var, .pgStyle2 var { background: #B49541!important; color: #FFF!important; }
 button.link { color: #B49541!important; text-transform: uppercase; text-decoration: none; }
+.embed #logo { display: block!important; }
