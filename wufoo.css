@@ -25,6 +25,8 @@ box-sizing: border-box;
 .wufoo li { width: 96%!important; }
 .wufoo li.focused { background-color: transparent!important; }
 
+form li.focused .instruct, form li:hover .instruct { left: auto; right: 100px; }
+
 .wufoo input[type="submit"] { cursor: pointer!important; text-transform: uppercase; padding: 7px 20px!important; background: #484848; color: #FFF; border: 0px;}
 .wufoo input[type="submit"]:hover { background: #B49541; }
 .wufoo label.choice { margin-top: -21px; }
